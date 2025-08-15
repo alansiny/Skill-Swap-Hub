@@ -1,39 +1,35 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Happy face 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: syntax shoonyam
 
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+### Team Member
+Alan siny mathew - Toc H institute of science and technology
+
 
 ### Project Description
-[2-3 lines about what your project does]
+HappyFace is a fun and interactive app designed to brighten your day, boost your mood, and help you cultivate positive habits. With engaging features like personalized mood tracking, uplifting prompts, and thoughtful reflection exercises, HappyFace makes it easy to focus on your mental well-being.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Before HappyFace, people often struggled to monitor their fatigue levels and predict how their mood might change throughout the day. They had no easy way to understand the connection between tiredness and emotional state, making it difficult to manage energy, productivity, and overall well-being. HappyFace addresses this by tracking users’ tiredness, analyzing patterns, and predicting their next mood. By providing personalized insights and recommendations, the app helps users plan their day better, maintain emotional balance, and take proactive steps to improve mental and physical wellness.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+HappyFace helps users understand and manage their mood by tracking their tiredness and predicting how it might affect their emotional state. The app collects data on energy levels, daily routines, and emotional patterns to provide personalized insights. Based on this, it predicts the user’s next mood and offers suggestions to improve well-being—such as taking a break, practicing mindfulness, or engaging in uplifting activities. By combining mood tracking, fatigue monitoring, and predictive insights, HappyFace empowers users to make informed decisions about their day, maintain emotional balance, and cultivate a healthier, more positive lifestyle.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used  dart
+- Frameworks used  flutter
+- Libraries used  json_annotation, json serializable, google fonts
+  
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
@@ -41,7 +37,7 @@ For Software:
 [commands]
 
 # Run
-[commands]
+[flutter run]
 
 ### Project Documentation
 For Software:
@@ -56,28 +52,7 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -88,9 +63,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [alan siny mathew]: [developer]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
